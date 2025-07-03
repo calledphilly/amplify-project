@@ -64,3 +64,4 @@ amplifytools.xcconfig
 
 # others
 pnpm-lock.yaml
+.python-version
